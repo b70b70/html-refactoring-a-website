@@ -3,7 +3,7 @@ Refactor html exercise
 
 All images on the website have been updated to include descriptive alt attributes. This ensures that users with visual impairments or those using assistive technologies can understand the content and purpose of the images.
 
-Instead of relying heavily on <div> elements, the website now utilises semantic HTML elements such as <main>, <aside>, <header>, and <footer>.
+Instead of relying heavily on div elements, the website now utilises semantic HTML elements such as main, aside, header, and footer.
 
 The CSS code has been thoroughly reviewed and cleaned up to remove redundant styles and optimise performance. By reducing unnecessary CSS, the website now loads faster and performs more efficiently.
 
